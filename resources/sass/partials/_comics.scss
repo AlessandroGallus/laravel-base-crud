@@ -1,0 +1,24 @@
+.container{
+  background-color: #00ff00;
+  display: flex;
+  flex-wrap:wrap ;
+  justify-content: space-around;
+  .card{
+    width: 18%;
+    background-color: #ffff00;
+    margin:30px auto;
+    padding: 10px;
+    text-align: center;
+    a{
+      text-decoration: none;
+      color: black;
+    }
+    .show{
+      background-color: #00ff00;
+      border-radius: 10px;
+      padding: 10px;
+      width: 100px;
+      margin: auto;
+    }
+  }
+}
