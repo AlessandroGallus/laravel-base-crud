@@ -1,20 +1,21 @@
 .container{
-  background-color: #00ff00;
+  background-color: #FF00FF;
   display: flex;
   flex-wrap:wrap ;
   justify-content: space-around;
   .card{
     width: 18%;
-    background-color: #ffff00;
+    background-color: #FFFF00;
     margin:30px auto;
     padding: 10px;
+    color: #FFFFFF;
     text-align: center;
     a{
       text-decoration: none;
-      color: black;
+      color: #FFFFFF;
     }
     .show{
-      background-color: #00ff00;
+      background-color: #FF00FF;
       border-radius: 10px;
       padding: 10px;
       width: 100px;
